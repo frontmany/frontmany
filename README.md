@@ -1,5 +1,4 @@
-# 💫 About Me:
-🚀 I'm currently working on<br>→  Building a secure end-to-end encrypted messenger in C++.<br><br><br>🤝 I'm looking to collaborate on projects related to:<br>→ End-to-end encryption<br>→ High-Performance C++ Systems<br><br><br>📚 I'm currently learning<br>→ Leveraging crypto libraries (CryptoPP)<br>→ Advanced C++<br>→ High-performance<br>→ Cryptography<br><br>
+🚀 I'm developing a secure, end-to-end encrypted messenger using C++.  I'm open to collaborating on projects involving end-to-end encryption and high-performance C++ systems.  Currently, I'm exploring how to leverage crypto libraries like CryptoPP, delve into advanced C++, and optimize high-performance cryptography.
 
 
 ## 🌐 Socials:
