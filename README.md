@@ -1,3 +1,4 @@
+# 💫 About Me:
 🚀 I'm developing a secure, end-to-end encrypted messenger using C++.  I'm open to collaborating on projects involving end-to-end encryption and high-performance C++ systems.  Currently, I'm exploring how to leverage crypto libraries like CryptoPP, delve into advanced C++, and optimize high-performance cryptography.
 
 
