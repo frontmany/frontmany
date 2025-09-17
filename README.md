@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 I'm developing a secure, end-to-end encrypted messenger using C++.  I'm open to collaborating on projects involving end-to-end encryption and high-performance C++ systems.  Currently, I'm exploring how to leverage crypto libraries like CryptoPP, dive into advanced C++.<br><br>
+# 🚀 About Me:
+I'm developing a secure, end-to-end encrypted messenger using C++.  I'm open to collaborating on projects involving end-to-end encryption and high-performance C++ systems.  Currently, I'm exploring how to leverage crypto libraries like CryptoPP, dive into advanced C++.<br><br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fmtab2014@gmail.com) 
 <br><br>
 # Tech Stack:
