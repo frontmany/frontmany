@@ -1,4 +1,4 @@
-# ⚡ About Me:
+# ⚡ C++ developer:
 I am a C++ developer with a strong interest in building robust and high-performance systems. I am open to collaborating on complex C++ projects and contributing my skills in low-level programming and optimization. Currently, I am expanding my expertise in modern standards and exploring advanced libraries and techniques.<br><br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fmtab2014@gmail.com) 
 <br><br>
