@@ -2,8 +2,6 @@
 
 C++ developer with 1.5 years of commercial experience building real-time video communication software. Focused on networking, multithreading, and encryption. Actively learning Rust and interested in robotics, low-level systems, and performance-critical applications. I enjoy digging into how things work and writing clean, maintainable code.
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fmtab2014@gmail.com)
-
 ---
 
 # 🛠️ Tech Stack
