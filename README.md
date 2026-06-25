@@ -18,18 +18,11 @@ C++ developer with 1.5 years of commercial experience building real-time video c
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=frontmany&theme=codeSTACKr&hide_border=false)
-
----
-
 ### 🔍 What I'm Currently Exploring
 
-- 🔐 Advanced encryption protocols for real-time systems  
+- 🔐 Advanced real-time systems  
 - 🦀 Systems programming with Rust  
-- ⚙️ Robotics and embedded systems  
-- 🧠 Performance optimization and low-latency networking  
+- 🧠 Performance optimization and low-latency
 
 ---
 
